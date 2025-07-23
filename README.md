@@ -28,9 +28,8 @@ This project forecasts energy consumption using SARIMA and XGBoost, and visualiz
 
 ## 📈 Visualizations (QuickSight)
 
-| Actual vs Predicted (Monthly) | Weekday vs Weekend (Daily) |
-|------------------------------|-----------------------------|
-| ![](assets/quicksight_charts/monthly_actual_vs_pred.png) | ![](assets/quicksight_charts/weekday_weekend.png) |
+<img width="1300" height="880" alt="Screenshot (727)" src="https://github.com/user-attachments/assets/eb3fd52c-8386-4f59-b559-6b700596300a" />
+
 
 ---
 
